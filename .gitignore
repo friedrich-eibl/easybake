@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Blender
+*.blend
+*.blend1
+*.fbx
+*.obj
+*.gltf
+*.glb
+*.jpeg
+*.jpg
+*.png
+*.tiff
+
